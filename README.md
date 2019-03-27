@@ -1,2 +1,2 @@
-# ca-platform-l10n
-Language localisations for Comarch IoT Platform
+# ca-platform-i18n
+Language Internationalization for Comarch IoT Platform
