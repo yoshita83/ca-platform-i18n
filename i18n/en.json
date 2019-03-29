@@ -395,5 +395,8 @@
   "ADD_NEW_EMAIL": "Add new email",
 
   "REMOVING_RULES": "Removing rules",
-  "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?"
+  "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
+
+  "HIDE": "Hide",
+  "SHOW": "Show"
 }
