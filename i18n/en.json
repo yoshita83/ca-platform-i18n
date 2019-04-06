@@ -334,6 +334,7 @@
   "SEARCH": "Search...",
   "SELECT_ALL": "Select all",
   "CLEAR_SELECTED_ITEMS": "Clear selected items",
+  "GEOLOCATION": "Geolocation",
 
   "PROJECT_NAME_RESTRICTIONS": "Project name should contain only letters, digits, `_`, `-` and should start and end with letter or digit",
   "PROJECT_ID_RESTRICTIONS": "Project id should contain only letters, digits, `-` and should start with letter or digit",
