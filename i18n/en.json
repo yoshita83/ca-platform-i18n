@@ -374,6 +374,7 @@
   "MQTT_TOPIC_RESTRICTIONS": "Non slash character must follow by the slash",
   "MQTT_URL_RESTRICTIONS": "MQTT url cannot contains whitespace characters",
   "FIELD_MUST_BE_NUMBER": "Value must be a number",
+  "FIELD_MUST_BE_NUMBER_IN_RANGE": "Value is out of range",
   "FINISH": "Finish",
   "EQUAL": "Equal",
   "NOT_EQUAL": "Not equal",
