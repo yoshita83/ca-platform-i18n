@@ -398,5 +398,7 @@
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
 
   "HIDE": "Hide",
-  "SHOW": "Show"
+  "SHOW": "Show",
+  
+  "CONFIRM_REMOVE_IMAGES": "Are you sure want to remove the following images?"
 }
