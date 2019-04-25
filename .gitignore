@@ -1,0 +1,7 @@
+*
+!README.md
+!.gitignore
+i18n/*
+i18n/!db.json
+i18n/!ja.json
+i18n/!en.json
