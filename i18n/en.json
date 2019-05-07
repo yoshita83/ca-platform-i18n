@@ -395,6 +395,13 @@
   "SEND_EMAIL": "Send email",
   "EMAILS": "Email",
   "ADD_NEW_EMAIL": "Add new email",
+  "BODY": "Body",
+  "HEADER_RESTRICTIONS": "Header name should contain only letters, digits, `-` and '_'",
+  "HEADER_UNIQUE_NAME_RESTRICTIONS": "Header name must be unique in one device.",
+  "HEADER_NAME": "Header",
+  "HEADER_VALUE": "Value",
+  "HTTP_METHOD": "HTTP Method",
+  "ADD_HEADER": "Add header",
 
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
