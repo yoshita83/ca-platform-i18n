@@ -410,5 +410,10 @@
   "NEWLY_CREATED_TOKEN_DESCRIPTION": "Make sure to immediately copy your new token. You won't be able to see it again!",
   "APIKEYS_LIST_IS_EMPTY": "You haven't created any access token yet.",
   "CREATE_NEXT": "Create next token",
-  "GENERAL": "General"
+  "GENERAL": "General",
+
+  "ADD_NEW": "Add new",
+  "CHOOSE_TAGS": "Choose tags",
+  "SELECTED_TAG": "Selected tags",
+  "NEW": "New"
 }
