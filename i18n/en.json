@@ -399,11 +399,11 @@
 
   "TOKEN": "TOKEN",
   "CREATED": "Created",
-  "REVOKE": "Revoke",
+  "REMOVE_TOKEN": "Remove",
   "PERSONAL_ACCESS_TOKEN": "Personal access token",
   "ADD_TOKEN_NAME": "Add token name",
   "EXPIRES_AT": "Expires at",
-  "MAX_APIKEYS_NUMBER_REACHED": "You can add only {{value}} tokens, revoke unused.",
+  "MAX_APIKEYS_NUMBER_REACHED": "Can display only {{value}} tokens, remove unused.",
   "GENERATE_TOKEN": "Generate token",
   "COPY": "Copy",
   "NEVER": "Never",
