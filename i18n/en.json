@@ -415,5 +415,9 @@
   "ADD_NEW": "Add new",
   "CHOOSE_TAGS": "Choose tags",
   "SELECTED_TAG": "Selected tags",
-  "NEW": "New"
+  "NEW": "New",
+
+  "REQUIRED_FIELDS": "Required fields",
+  "APPLY": "Apply",
+  "PROPERTIES_LIST_IS_EMPTY": "Properties list is empty"
 }
