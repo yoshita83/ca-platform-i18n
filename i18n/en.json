@@ -419,5 +419,17 @@
 
   "REQUIRED_FIELDS": "Required fields",
   "APPLY": "Apply",
-  "PROPERTIES_LIST_IS_EMPTY": "Properties list is empty"
+  "PROPERTIES_LIST_IS_EMPTY": "Properties list is empty",
+
+  "BULK_EDIT": "Bulk edit",
+  "ADD_TAGS": "Add tags",
+  "REMOVE_TAGS": "Remove tags",
+  "ADD_PROPERTIES": "Add properties",
+  "REMOVE_PROPERTIES": "Remove properties",
+  "CHOSEN_DEVICES": "Chosen devices",
+  "MANAGE_DEVICES": "Manage devices",
+  "ADDED": "Added",
+  "EDIT_PROPERTY": "Edit property",
+  "CHANGES_HAVE_BEEN_SUBMITTED": "Changes have been submitted",
+  "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified"
 }
