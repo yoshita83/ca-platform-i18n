@@ -430,5 +430,7 @@
   "ADDED": "Added",
   "EDIT_PROPERTY": "Edit property",
   "CHANGES_HAVE_BEEN_SUBMITTED": "Changes have been submitted",
-  "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified"
+  "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} devices have been modified",
+  "USER_SEARCH_PLACEHOLDER": "Search for a user",
+  "NOT_FOUND_USERS": "Not found user"
 }
