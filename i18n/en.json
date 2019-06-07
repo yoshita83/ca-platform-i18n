@@ -159,6 +159,7 @@
   "UPDATE_DEVICE": "Update device",
   "DEVICES": "Devices",
   "ADD_NEW_DEVICES": "Add new device(s)",
+  "DEVICE_TYPE_RESTRICTIONS": "Device type must start and end with alphanumeric characters or '_' and cannot contain any special characters expect ' ', '.', '-', '_'",
   "REMOVE": "Remove",
   "UPDATE_FIRMWARE": "Update firmware",
   "CHANNEL_UPDATED_TITLE": "Channel updated",
