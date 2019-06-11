@@ -418,6 +418,8 @@
   "APIKEYS_LIST_IS_EMPTY": "You haven't created any access token yet.",
   "CREATE_NEXT": "Create next token",
   "GENERAL": "General",
+  "ACCESS_TOKEN_CREATED_TITLE": "Access token created",
+  "ACCESS_TOKEN_CREATED_BODY": "Access token with id {{id}} created successfully",
 
   "ADD_NEW": "Add new",
   "CHOOSE_TAGS": "Choose tags",
