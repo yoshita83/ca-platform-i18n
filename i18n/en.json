@@ -366,6 +366,7 @@
   "EDIT_RULE": "Edit rule",
   "MQTT_TOPIC_RESTRICTIONS": "Non slash character must follow by the slash",
   "MQTT_URL_RESTRICTIONS": "MQTT url cannot contains whitespace characters",
+  "WEB_URL_RESTRICTIONS": "Uri must starts with http:// or https:// followed by any characters",
   "FIELD_MUST_BE_NUMBER": "Value must be a number in the valid range",
   "FINISH": "Finish",
   "EQUAL": "Equal",
