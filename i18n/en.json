@@ -29,6 +29,7 @@
   "REFRESH_TOOLTIP": "Refresh",
   "DELETE_WIDGET": "Delete widget",
   "ADD_WIDGET": "Add widget",
+  "EDIT_WIDGET": "Edit widget",
   "INVALID_WIDGET_DATA": "The widget data are invalid",
   "NO_DASHBOARD_AVAILABLE": "There is no dashboard available in this project",
   "LOAD_MORE_DASHBOARDS": "Load more dashboards",
