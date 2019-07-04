@@ -51,6 +51,7 @@
   "PRE_SHARED_KEY_RESTRICTIONS": "Key should contains only even number of hexadecimal digits",
   "PROPERTY_ID_RESTRICTIONS": "Property Id should contain only letters, digits, `-`, '_' and shouldn't start with '-'",
   "PROPERTY_UNIQUE_ID_RESTRICTIONS": "Property id must be unique in one device.",
+  "PROPERTY_NAME_RESTRICTIONS": "Property name should contain only letters, digits, `_`, `-` and should start and end with letter or digit",
   "EG_DATE_OR_DATE": "e.g 2018-03 or 2018-03-06",
   "DATE": "Date",
   "INBOUND": "inbound",
