@@ -161,7 +161,7 @@
   "DEVICES": "Devices",
   "ADD_NEW_DEVICES": "Add new device(s)",
   "CHOOSE_TYPE": "Choose type",
-  "DEVICE_TYPE_RESTRICTIONS": "Device type must start and end with alphanumeric characters or '_' and cannot contain any special characters expect ' ', '.', '-', '_'",
+  "DEVICE_TYPE_RESTRICTIONS": "Device type can be composed of alphanumeric characters and '_', may also contain the following special characters  ' ', '.', '- ' except in the first and the last position",
   "REMOVE": "Remove",
   "UPDATE_FIRMWARE": "Update firmware",
   "CHANNEL_UPDATED_TITLE": "Channel updated",
