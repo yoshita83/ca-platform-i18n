@@ -241,7 +241,7 @@
   "SELECT_SOME_CHANNELS": "Select some channels from the list below to assign them now.",
   "SEARCH_THE_CHANNELS_LIST": "Search the channels list",
   "FOUND_CHANNELS": "Found <span class=\"channels-count\">{{availableChannelsCount}} </span>channels",
-  "CHANNELS_AVAILABLE_FOR_ASSIGNMENT": "Channels available for assignment",
+  "CHANNELS_AVAILABLE_FOR_ASSIGNMENT": "Available for assignment",
   "CREATE_NEW_CHANNEL": "Create new channel",
   "NO_CHANNELS_TO_ASSIGN": "There are no channels to which device can be assigned.",
   "YOU_CAN_ADD_NEW_ONE": "You can add new one now in next tab.",
