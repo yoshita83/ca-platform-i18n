@@ -455,5 +455,8 @@
   "DESIRED_TWIN": "Desired Twin",
 
   "LWM2M_ENDPOINT": "LWM2M endpoint",
-  "DEVICE_ENDPOINT": "Device endpoint"
+  "DEVICE_ENDPOINT": "Device endpoint",
+  "COPIED": "Copied!",
+  "COPY_TO_CLIPBOARD": "Copied to clipboard"
+  
 }
