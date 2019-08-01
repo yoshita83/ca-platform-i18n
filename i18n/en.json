@@ -300,7 +300,7 @@
   "MAX_FILE_SIZE": "File is too big. Max file size is {{max}} MB, current size is {{current}} MB",
   "FILE_CANNOT_BE_EMPTY": "The image file cannot be empty",
   "FIELD_MUST_BE_JSON": "The field must be a valid JSON object",
-  "DATE_RESTRICTIONS": "The field must be a valid date",
+  "DATE_RESTRICTIONS": "The field must be a valid date in format YYYY-MM or YYYY-MM-DD",
   "CHECKING": "Checking...",
   "ELEMENTS": "elements",
   "NO": "No",
