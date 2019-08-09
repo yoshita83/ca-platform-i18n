@@ -463,6 +463,16 @@
   "ARE_YOU_SURE_LEAVE_PROJECT": "Are you sure you want to leave this project?",
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
-  "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform"
-
+  "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
+  "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
+  "GRAPH": "Graph",
+  "LAST_5_MINUTES": "Last 5 minutes",
+  "LAST_10_MINUTES": "Last 10 minutes",
+  "LAST_15_MINUTES": "Last 15 minutes",
+  "LAST_30_MINUTES": "Last 30 minutes",
+  "LAST_1_HOUR": "Last 1 hour",
+  "LAST_2_HOURS": "Last 2 hours",
+  "LAST_4_HOURS": "Last 4 hours",
+  "LAST_8_HOURS": "Last 8 hours"
+  
 }
