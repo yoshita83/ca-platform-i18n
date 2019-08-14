@@ -415,7 +415,7 @@
   "ADD_TOKEN_DESCRIPTION": "用途を記入してください。",
   "EXPIRES_AT": "有効期限",
   "MAX_APIKEYS_NUMBER_REACHED": "表示可能数({{value}}個)を超過しました。不要なトークンを削除してください。",
-  "GENERATE_TOKEN": "削除",
+  "GENERATE_TOKEN": "作成",
   "COPY": "コピー",
   "NEVER": "無期限",
   "NEWLY_CREATED_TOKEN_DESCRIPTION": "トークンをコピーしてください。再表示はされません。",
