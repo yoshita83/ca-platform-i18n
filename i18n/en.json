@@ -473,6 +473,23 @@
   "LAST_1_HOUR": "Last 1 hour",
   "LAST_2_HOURS": "Last 2 hours",
   "LAST_4_HOURS": "Last 4 hours",
-  "LAST_8_HOURS": "Last 8 hours"
+  "LAST_8_HOURS": "Last 8 hours",
+  "STATUS": "Status",
+  "INSTALLATION": "Installation",
+  "FIRMWARE_UPDATE_LIST_IS_EMPTY": "Firmware update list is empty",
+  "ADD_NEW_UPDATE": "Add new update",
+  "DETAILS": "Details",
+  "INSTALL_NOW":"Install now",
+  "UPDATE_FIRMWARE": "Update firmware",
+  "FIRMWARE_IMAGE_CREATED": "Firmware image created {{file}} {{id}}",
+  "FIRMWARE_UPDATE_CREATED": "Firmware updatr created {{device}}",
+  "FIRMWARE_IMAGE_CREATE_FAILED": "Firmware image create failed {{status}} {{message}}",
+  "FIRMWARE_UPDATE_CREATE_FAILED": "Firmware update create failed {{status}} {{message}} {{device}}",
+  "FIRMWARE_UPDATE_INSTALL_FAILED": "Firmware update install failed {{updateId}} {{status}} {{message}}",
+  "FIRMWARE_UPDATE_INSTALLED": "Firmware update installed {{updateId}}",
+  "SCHEDULE_CREATED_FAILED": "Schedule creates failed {{status}} {{message}}",
+  "SCHEDULE_CREATED": "Schedule created {{schedule}}",
+  "RETRY": "Retry",
+  "INSTALL": "Install"
   
 }
