@@ -473,6 +473,25 @@
   "LAST_1_HOUR": "Last 1 hour",
   "LAST_2_HOURS": "Last 2 hours",
   "LAST_4_HOURS": "Last 4 hours",
-  "LAST_8_HOURS": "Last 8 hours"
-  
+  "LAST_8_HOURS": "Last 8 hours",
+  "STATUS": "Status",
+  "INSTALLATION": "Installation",
+  "FIRMWARE_UPDATE_LIST_IS_EMPTY": "Firmware update list is empty",
+  "ADD_NEW_UPDATE": "Add new update",
+  "DETAILS": "Details",
+  "INSTALL_NOW": "Install now",
+  "FIRMWARE_IMAGE_CREATED": "Firmware image created",
+  "FIRMWARE_UPDATE_CREATED": "Firmware update created for {{device}}",
+  "FIRMWARE_IMAGE_CREATE_FAILED": "{{status}} Firmware image create failed. {{message}}",
+  "FIRMWARE_UPDATE_CREATE_FAILED": "{{status}} Firmware update create failed for {{device}}. {{message}}",
+  "FIRMWARE_UPDATE_INSTALL_FAILED": "{{status}} Firmware update {{updateId}} install failed. {{message}}",
+  "FIRMWARE_UPDATE_INSTALLED": "Firmware update {{updateId}} installed",
+  "SCHEDULE_CREATED_FAILED": "{{STATUS}} Schedule creates failed. {{message}}",
+  "SCHEDULE_CREATED": "Schedule {{schedule}} created",
+  "FIRMWARE_UPDATE_INSTALLED_TITLE": "Success",
+  "FIRMWARE_UPDATE_INSTALLED_BODY": "Firmware update {{updateId}} installed successfully",
+  "FIRMWARE_UPDATE_INSTALL_FAILED_TITLE": "{{status}} Firmware update {{updateId}} failed",
+  "FIRMWARE_UPDATE_INSTALL_FAILED_BODY": "{{message}}",
+  "RETRY": "Retry",
+  "INSTALL": "Install"
 }
