@@ -275,6 +275,7 @@
   "PROJECTS_LIST_IS_EMPTY": "Project list is empty",
   "FOUND_PROJECTS": "Found <span class=\"projects-count\">{{availableProjectCount}}</span> projects",
   "PROFILE_SETTINGS": "Profile settings",
+  "ACCOUNT_MANAGEMENT": "Account management",
   "LOGOUT": "Logout",
   "ROLE": "Role",
   "ACCESS_DENIED_TITLE": "Access denied",
