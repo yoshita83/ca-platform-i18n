@@ -473,6 +473,26 @@
   "LAST_1_HOUR": "直近1時間",
   "LAST_2_HOURS": "直近2時間",
   "LAST_4_HOURS": "直近4時間",
-  "LAST_8_HOURS": "直近8時間"
+  "LAST_8_HOURS": "直近8時間",
+  "STATUS": "ステータス",
+  "INSTALLATION": "操作",
+  "FIRMWARE_UPDATE_LIST_IS_EMPTY": "登録済みイメージ・ファイルはありません。",
+  "ADD_NEW_UPDATE": "新規アップデート",
+  "DETAILS": "詳細",
+  "INSTALL_NOW": "すぐにインストール",
+  "FIRMWARE_IMAGE_CREATED": "ファームウェア・イメージを作成しました。",
+  "FIRMWARE_UPDATE_CREATED": "{{device}}用のアップデートタスクを作成しました。Firmware update created for {{device}}",
+  "FIRMWARE_IMAGE_CREATE_FAILED": "イメージを登録できません。ステータス：{{status}} 詳細：{{message}}",
+  "FIRMWARE_UPDATE_CREATE_FAILED": "{{device}}の更新処理ができません。ステータス：{{status}} 詳細：{{message}}",
+  "FIRMWARE_UPDATE_INSTALL_FAILED": "更新処理({{updateId}})が完了しませんでした。ステータス：{{status}} 詳細：{{message}}",
+  "FIRMWARE_UPDATE_INSTALLED": "更新処理(){{updateId}})を完了しました。",
+  "SCHEDULE_CREATED_FAILED": "スケジュールを作成できません。ステータス：{{STATUS}} 詳細：{{message}}",
+  "SCHEDULE_CREATED": "スケジュール({{schedule}})を作成しました。",
+  "FIRMWARE_UPDATE_INSTALLED_TITLE": "成功",
+  "FIRMWARE_UPDATE_INSTALLED_BODY": "更新処理({{updateId}})が完了しました。",
+  "FIRMWARE_UPDATE_INSTALL_FAILED_TITLE": "更新処理({{updateId}})エラー",
+  "FIRMWARE_UPDATE_INSTALL_FAILED_BODY": "{{message}}",
+  "RETRY": "リトライ",
+  "INSTALL": "インストール"
 
 }
