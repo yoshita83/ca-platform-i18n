@@ -478,7 +478,7 @@
   "FIRMWARE_UPDATE": "ファームウェア更新",
   "FIRMWARE_UPDATE_MULTIPLE_DEVICES": "ファームウェア更新",
   "STATUS": "ステータス",
-  "INSTALLATION": "操作",
+  "INSTALLATION": "インストール",
   "FIRMWARE_UPDATE_LIST_IS_EMPTY": "登録済みイメージ・ファイルはありません。",
   "ADD_NEW_UPDATE": "新規アップデート",
   "DETAILS": "詳細",
