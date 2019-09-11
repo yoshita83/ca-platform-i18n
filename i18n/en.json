@@ -501,5 +501,6 @@
   "ERROR_MESSAGE": "Error message",
   "FIRMWARE_IMAGE_INFO": "Firmware Image Info",
   "RETRY": "Retry",
-  "INSTALL": "Install"
+  "INSTALL": "Install",
+  "REFRESH_DASHBOARD": "Refreshed the dashboard"
 }
