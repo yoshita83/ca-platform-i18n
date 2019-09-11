@@ -501,5 +501,6 @@
   "ERROR_MESSAGE": "エラーメッセージ",
   "FIRMWARE_IMAGE_INFO": "イメージ情報",
   "RETRY": "リトライ",
-  "INSTALL": "インストール"
+  "INSTALL": "インストール",
+  "REFRESH_DASHBOARD": "ダッシュボード更新"
 }
