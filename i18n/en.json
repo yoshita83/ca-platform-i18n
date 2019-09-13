@@ -386,8 +386,9 @@
 
   "SECURITY_POLICIES": "Security policies",
   "ADD_NEW_SECURITY_POLICY": "Add new security policy",
+  "SECURITY_POLICY_DETAILS": "Security policy details ({{securityPolicyName}})",
   "SECURITY_POLICIES_LIST_IS_EMPTY": "Security policies list is empty.",
-  "SECURITY_POLICY_NAME_RESTRICTIONS":"The security policy name must start and end with alphanumeric characters and cannot contain any special characters",
+  "SECURITY_POLICY_NAME_RESTRICTIONS": "The security policy name must start and end with alphanumeric characters and cannot contain any special characters",
   "CHANNEL_IDS": "Channel IDs",
   "CHOOSE_CHANNELS": "Choose channels",
   "SELECTED_CHANNELS": "Selected channels",
@@ -408,7 +409,7 @@
   "WITHIN_LAST": "within last",
   "IS": "is",
   "CONDITIONS": "Conditions",
-  
+
   "HIDE": "Hide",
   "SHOW": "Show",
 
