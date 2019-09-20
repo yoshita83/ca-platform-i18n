@@ -528,5 +528,7 @@
   "FIRMWARE_IMAGE_INFO": "Firmware Image Info",
   "RETRY": "Retry",
   "INSTALL": "Install",
-  "REFRESH_DASHBOARD": "Refreshed the dashboard"
+  "REFRESH_DASHBOARD": "Refreshed the dashboard",
+  "LAST": "Last",
+  "FIRST": "First"
 }
