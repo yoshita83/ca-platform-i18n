@@ -105,6 +105,8 @@
   "CONFLICT" : "競合",
   "LAST_OWNER_IN_PROJECT" : "他に管理者がいません。",
   "CANT_REMOVE_LAST_OWNER" : "1つ以上の管理者を登録する必要があります。",
+  "USER_DELETE_FROM_PROJECT_CONFIRMATION": "{{userName}}をこのプロジェクトから削除しますか？",
+  "CREATE_NEW_USER": "新規ユーザ",
 
   "SCHEDULED_AT" : "スケジュール",
   "TIME_INTERVAL_BETWEEN" : "単位",
@@ -266,7 +268,7 @@
   "ATTRIBUTES" : "アトリビュート",
   "TAGS" : "タグ",
   "UNIT" : "単位",
-  "CHANNEL_TYPE" : "チャネル・タイプ",
+  "CHANNEL_TYPE" : "タイプ",
   "CHANNEL_NAME" : "チャネル名",
   "CHANNEL_DESCRIPTION" : "説明",
   "COLLAPSE_SIDEBAR" : "閉じる",
@@ -319,6 +321,7 @@
   "TYPE_HERE_PROJECT_ID": "プロジェクトIDを入力してください。",
   "TYPE_HERE_PROJECT_NAME": "プロジェクト名を入力してください。",
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "{\"attirbute name\": \"attribute value\"}形式で指定してください。",
+  "NO_RESULTS_FOUND": "該当はありません。",
 
   "ACTIVATE" : "有効",
   "DEACTIVATE" : "無効",
@@ -528,5 +531,7 @@
   "FIRMWARE_IMAGE_INFO": "イメージ情報",
   "RETRY": "リトライ",
   "INSTALL": "インストール",
-  "REFRESH_DASHBOARD": "ダッシュボード更新"
+  "REFRESH_DASHBOARD": "ダッシュボード更新",
+  "LAST": "最後",
+  "FIRST": "最初"
 }
