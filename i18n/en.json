@@ -105,6 +105,8 @@
   "CONFLICT": "Conflict",
   "LAST_OWNER_IN_PROJECT": "You are the last OWNER in the project.",
   "CANT_REMOVE_LAST_OWNER": "You cannot remove the last owner of the project",
+  "USER_DELETE_FROM_PROJECT_CONFIRMATION": "Do you really want to delete {{userName}} from this project?",
+  "CREATE_NEW_USER": "Create new user",
 
   "SCHEDULED_AT": "Scheduled at",
   "TIME_INTERVAL_BETWEEN": "Time interval between",
@@ -319,6 +321,7 @@
   "TYPE_HERE_PROJECT_ID": "Type here project id",
   "TYPE_HERE_PROJECT_NAME": "Type here project name",
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "Type here {\"attirbute name\": \"attribute value\"}",
+  "NO_RESULTS_FOUND": "No results found",
 
   "ACTIVATE": "Activate",
   "DEACTIVATE": "Deactivate",
