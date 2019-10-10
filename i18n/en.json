@@ -257,7 +257,7 @@
   "PROJECT": "Project",
   "tenant.USERS": "Users",
   "ADD_NEW_PROJECT": "Add new project",
-  "PROJECTS_LIST_IS_EMPTY": "Project list is empty",
+  "PROJECTS_LIST_IS_EMPTY": "Project list is empty. New project can be created by tenant administrator",
   "FOUND_PROJECTS": "Found <span class=\"projects-count\">{{availableProjectCount}}</span> projects",
   "PROFILE_SETTINGS": "Profile settings",
   "ACCOUNT_MANAGEMENT": "Account management",
