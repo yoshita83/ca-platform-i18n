@@ -256,6 +256,8 @@
   "PROJECTS": "Projects",
   "PROJECT": "Project",
   "tenant.USERS": "Users",
+  "UNLOCK_USER": "Click icon to unlock user",
+  "BLOCK_USER": "Click icon to block user",
   "ADD_NEW_PROJECT": "Add new project",
   "PROJECTS_LIST_IS_EMPTY": "Project list is empty. New project can be created by tenant administrator",
   "FOUND_PROJECTS": "Found <span class=\"projects-count\">{{availableProjectCount}}</span> projects",
