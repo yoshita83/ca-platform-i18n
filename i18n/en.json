@@ -120,6 +120,9 @@
 
   "ASSIGN": "Assign",
   "ADD_DEVICES_FROM_REPOSITORY": "Add devices from repository",
+  "ADD_DEVICES": "Add devices",
+  "ADD_DEVICES_TEXTAREA": "Define devices",
+  "DEFINE_FEW_DEVICES": "Define few devices",
   "DEVICE_ADDED_TITLE": "Device has been added",
   "DEVICE_ADDED_BODY": "Device {{deviceName}} has been added to the project {{projectName}}",
   "DEVICES_ADDED_TITLE": "Devices have been added",
