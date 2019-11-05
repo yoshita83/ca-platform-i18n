@@ -511,7 +511,7 @@
   "COPY_TO_CLIPBOARD": "クリップボードにコピーしました。",
 
   "ARE_YOU_SURE_LEAVE_PROJECT": "プロジェクトから解除してもよろしいですか？",
-  "LEAVE": "解除",
+  "LEAVE": "OK",
   "NAME_PROJECT_EXIST": "同じ名前のプロジェクトがすでに存在します。",
   "ID_PROCJECT_EXIST": "同じIDのプロジェクトがすでに存在します。",
 
