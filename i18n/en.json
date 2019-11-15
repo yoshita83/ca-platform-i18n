@@ -89,6 +89,7 @@
 
   "MEMBERS": "Members",
   "ADD_NEW_MEMBERS": "Add new members",
+  "LEAVE_PROJECT": "Leave",
   "USER_ADDED_TITLE": "User has been added to the project",
   "USER_ADDED_BODY": "User '{{user}}' has been added to the project '{{projectName}}' as '{{role}}'",
   "USER_EXIST_TITLE": "Cannot add user to the project",
@@ -121,6 +122,7 @@
   "ASSIGN": "Assign",
   "ADD_DEVICES_FROM_REPOSITORY": "Add devices from repository",
   "ADD_DEVICES": "Add devices",
+  "BULK_ADD_DEVICES": "Bulk add devices",
   "ADD_DEVICES_TEXTAREA": "Define devices",
   "DEFINE_FEW_DEVICES": "Define few devices",
   "DEVICE_ADDED_TITLE": "Device has been added",
@@ -584,5 +586,8 @@
   
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
-  "FIRST": "First"
+  "FIRST": "First",
+  "LOADING_ALERTS": "Loadning alerts",
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
+  
 }
