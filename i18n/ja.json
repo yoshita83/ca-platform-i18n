@@ -89,6 +89,7 @@
 
   "MEMBERS" : "メンバー",
   "ADD_NEW_MEMBERS" : "メンバー追加",
+  "LEAVE_PROJECT": "解除",
   "USER_ADDED_TITLE" : "追加完了",
   "USER_ADDED_BODY" : "{{user}}を{{role}}として{{projectName}}に追加しました。",
   "USER_EXIST_TITLE" : "追加エラー",
@@ -122,6 +123,7 @@
   "ADD_DEVICES_FROM_REPOSITORY": "リポジトリから追加",
   "ADD_DEVICES": "デバイス追加",
   "ADD_DEVICES_TEXTAREA": "デバイス設定",
+  "BULK_ADD_DEVICES": "デバイス一括設定",
   "DEFINE_FEW_DEVICES": "複数デバイス設定",
   "DEVICE_ADDED_TITLE" : "追加完了",
   "DEVICE_ADDED_BODY" : "{{deviceName}}を追加しました。",
@@ -584,5 +586,7 @@
 
   "REFRESH_DASHBOARD": "ダッシュボード更新",
   "LAST": "最後",
-  "FIRST": "最初"
+  "FIRST": "最初",
+  "LOADING_ALERTS": "ロード中",
+  "UNABLE_TO_FOUND_ALERTS": "アラートはありません。"
 }
