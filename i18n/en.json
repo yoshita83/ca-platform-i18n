@@ -413,6 +413,14 @@
   "HEADER_VALUE": "Value",
   "HTTP_METHOD": "HTTP Method",
   "ADD_HEADER": "Add header",
+  "WEB_ACTION": "Web action",
+  "TRIGGER_RULE": "Trigger rule",
+  "ALL_FULLFILED": "all conditions are fullfiled",
+  "ONE_FULLFILED": "one is fullfiled",
+  "INFORMATION": "Information",
+  "CONDITION": "Condition",
+  "CHOOSE_ONE_CONDITION": "Choose one condition",
+  
 
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
