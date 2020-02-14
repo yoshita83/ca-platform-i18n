@@ -420,7 +420,9 @@
   "INFORMATION": "Information",
   "CONDITION": "Condition",
   "CHOOSE_ONE_CONDITION": "Choose one condition",
-
+  "METRIC_THROUGHPUT_CONDITION": "Metric throughput condition",
+  "METRIC_QUOTA_CONDITION": "Metric quota condition",
+  
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
 
