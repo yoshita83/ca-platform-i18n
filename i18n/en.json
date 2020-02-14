@@ -269,7 +269,6 @@
   "BLOCK_USER": "Click icon to block user",
   "ADD_NEW_PROJECT": "Add new project",
   "PROJECTS_LIST_IS_EMPTY": "Project list is empty. New project can be created by tenant administrator",
-  "NO_RESULT_FOUND": "No result found",
   "FOUND_PROJECTS": "Found <span class=\"projects-count\">{{availableProjectCount}}</span> projects",
   "PROFILE_SETTINGS": "Profile settings",
   "ACCOUNT_MANAGEMENT": "Account management",
@@ -517,7 +516,7 @@
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
-  
+
   "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
   "GRAPH": "Graph",
   "LAST_5_MINUTES": "Last 5 minutes",
@@ -584,11 +583,11 @@
   "LINE_GRAPH": "Line graph",
   "DEVICE_NOT_CONTAIN_ANY_PROPERTY": "Device doesn't contain any property",
   "LOAD_MORE": "Load more",
-  
+
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loadning alerts",
   "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
-  
+
 }
