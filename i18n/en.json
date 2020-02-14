@@ -413,7 +413,16 @@
   "HEADER_VALUE": "Value",
   "HTTP_METHOD": "HTTP Method",
   "ADD_HEADER": "Add header",
-
+  "WEB_ACTION": "Web action",
+  "TRIGGER_RULE": "Trigger rule",
+  "ALL_CONDITIONS_ARE_FULFILLED": "all conditions are fulfilled",
+  "ONE_IS_FULFILLED": "one is fulfilled",
+  "INFORMATION": "Information",
+  "CONDITION": "Condition",
+  "CHOOSE_ONE_CONDITION": "Choose one condition",
+  "METRIC_THROUGHPUT_CONDITION": "Metric throughput condition",
+  "METRIC_QUOTA_CONDITION": "Metric quota condition",
+  
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
 
@@ -589,6 +598,10 @@
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loadning alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
-
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
+  
+  "ACTIVATE_ALL_FEATURES_MODE_TITLE": "All features activated",
+  "ACTIVATE_ALL_FEATURES_MODE_BODY": "To deactivate hold r and three times press f",
+  "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "Additional features deactivated",
+  "DEACTIVATE_ALL_FEATURES_MODE_BODY": "To activate hold r and three times press f"
 }
