@@ -269,7 +269,6 @@
   "BLOCK_USER": "ロックするユーザのアイコンをクリックしてください。",
   "ADD_NEW_PROJECT" : "新規プロジェクト",
   "PROJECTS_LIST_IS_EMPTY": "プロジェクトはありません。テナント管理者により作成が可能です。",
-  "NO_RESULT_FOUND": "検索結果がありません。",
   "FOUND_PROJECTS": "<span class=\"projects-count\">{{availableProjectCount}}</span>個のプロジェクトが見つかりました。",
   "PROFILE_SETTINGS" : "プロファイル設定",
   "ACCOUNT_MANAGEMENT": "アカウント管理",
@@ -590,5 +589,5 @@
   "FIRST": "最初",
   "LOADING_ALERTS": "ロード中",
   "UNABLE_TO_FOUND_ALERTS": "アラートはありません。"
-  
+
 }
