@@ -415,8 +415,8 @@
   "ADD_HEADER": "Add header",
   "WEB_ACTION": "Web action",
   "TRIGGER_RULE": "Trigger rule",
-  "ALL_FULLFILED": "all conditions are fullfiled",
-  "ONE_FULLFILED": "one is fullfiled",
+  "ALL_CONDITIONS_ARE_FULLFILED": "all conditions are fulfilled",
+  "ONE_IS_FULFILLED": "one is fulfilled",
   "INFORMATION": "Information",
   "CONDITION": "Condition",
   "CHOOSE_ONE_CONDITION": "Choose one condition",
@@ -596,6 +596,10 @@
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loadning alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
   
+  "ACTIVATE_ALL_FEATURES_MODE_TITLE": "All features activated",
+  "ACTIVATE_ALL_FEATURES_MODE_BODY": "To deactivate hold r and three times click f",
+  "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "Additional features deactivated",
+  "DEACTIVATE_ALL_FEATURES_MODE_BODY": "To activate hold r and three times click f"
 }
