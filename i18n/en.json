@@ -216,6 +216,7 @@
   "TAG_NAME_RESTRICTIONS": "Tag name should consist of: letters, digits, `-` and `_`, but it should start and end only with the letter or digit.",
   "CREATE_CHANNEL": "Create channel",
   "UPDATE_CHANNEL": "Update channel",
+  "DELETE_CHANNELS_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following channels</span> ({{selectedChannelsLength}}):",
 
   "SINCE": "Since",
   "UNTIL": "Until",
@@ -476,6 +477,7 @@
   "WITHIN_LAST": "within last",
   "IS": "is",
   "CONDITIONS": "Conditions",
+  "DELETE_SECURITY_POLICIES_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following security policies</span> ({{selectedSecurityPoliciesLength}}):",
 
   "HIDE": "Hide",
   "SHOW": "Show",
