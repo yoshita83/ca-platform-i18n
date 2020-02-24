@@ -3,7 +3,7 @@ Language Internationalization for Comarch IoT Platform
 
 # Working with the repo
 
-1. Fork the ca-platrofm-i18n repo
+1. Fork the ca-platrofm-i18n repo (if you have already done it just 'update your fork' and skip step 2: cloning repo)
 2. Clone this repo locally: `git clone https://github.com/your-github-repo/ca-platform-i18n.git`
 3. Create branch for task on your github: `my_owesome_branch`
 4. Create branch for task on your local repo: `git checkout -b my_owesome_branch`
