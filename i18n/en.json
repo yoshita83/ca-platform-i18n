@@ -542,6 +542,7 @@
   "TWIN": "Twin",
   "REPORTED_TWIN": "Reported Twin",
   "DESIRED_TWIN": "Desired Twin",
+  "EDIT_TWIN": "Edit twin",
 
   "LWM2M_ENDPOINT": "LWM2M endpoint",
   "DEVICE_ENDPOINT": "Device endpoint",
