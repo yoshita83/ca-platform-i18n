@@ -210,13 +210,13 @@
   "CHANNEL_ID_ALREADY_USED" : "指定されたIDはすでに別のチャネルで使用されています。",
   "CHANNEL_NAME_RESTRICTIONS" : "チャネル名には記号以外が使用可能です。",
   "DEVICE_ID_ALREADY_USED" : "デバイスIDを変更してください。指定されたIDはすでに別のデバイスで使用されています。",
-  "DEVICE_ID_WAS_USED": "デバイスIDを変更してください。. 削除されたデバイスによって使われているIDです。",
+  "DEVICE_ID_WAS_USED": "デバイスIDを変更してください。削除済みデバイスによって使われているIDです。",
   "DEVICE_NAME_RESTRICTIONS" : "デバイス名には半角英数字のみが使用可能です。",
   "DEVICE_NAME_ALREADY_USED" : "同名のデバイスがすでに存在します。",
   "TAG_NAME_RESTRICTIONS": "タグ名には半角英数字、ハイフン、アンダースコアのみが使用可能です。また、開始文字には半角英数字のみが使用可能です。",
   "CREATE_CHANNEL" : "チャネル作成",
   "UPDATE_CHANNEL" : "チャネル編集",
-  "DELETE_CHANNELS_CONFIRMATION": "<span class=\"text-danger\">以下のチャネルを本当に削除しますか？</span> ({{selectedChannelsLength}}):",
+  "DELETE_CHANNELS_CONFIRMATION": "選択されたチャネル({{selectedChannelsLength}}個)を<span class=\"text-danger\">削除しますか？</span>",
 
   "SINCE" : "開始",
   "UNTIL" : "終了",
@@ -225,7 +225,7 @@
   "VALUE" : "値",
   "DEVICES_HISTORY_LIST_IS_EMPTY" : "履歴はありません。",
   "HISTORY_OF" : "履歴",
-  "ARE_YOU_SURE_CONFIRMATION" : "<span class=\"text-danger\">以下のデバイス({{selectedDevicesLength}}個)</span>を削除しますか？",
+  "ARE_YOU_SURE_CONFIRMATION" : "選択されたデバイス({{selectedDevicesLength}}個)を<span class=\"text-danger\">削除しますか？</span>",
   "PLEASE_NOTE_REMARK" : "同じIDでのデバイス再登録はできません。",
   "IF_YOU_WANT_FILTER" : "タイプ、またはタグでフィルタ出来ます。<br><b>{{devicetype}}:タイプ値</b> または <b>{{tags}}:タグ1,タグ2</b>",
   "DEVICE_TYPE_TAGS_PLACEHOLDER" : "{{devicetype}}:タイプ値 または {{tags}}:タグ1,タグ2",
@@ -342,14 +342,14 @@
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "{\"attirbute name\": \"attribute value\"}形式で指定してください。",
   "DELETE_PROJECT_QUESTIONMARK": "プロジェクトを削除しますか?",
   "DELETE_PROJECT": "プロジェクト削除",
-  "DELETE_PROJECT_CONFIRMATION": "<span class=\"text-danger\">本当にプロジェクトを削除しますか?</span> すべてのプロジェクト資源、接続情報、デバイスデータが消去されます。",
-  "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "すべてのプロジェクト資源、接続情報、デバイスデータが消去されます。",
+  "DELETE_PROJECT_CONFIRMATION": "<span class=\"text-danger\">プロジェクトを削除しますか?</span> 関連する全ての情報が削除されます。",
+  "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "プロジェクトに関連する全ての情報が削除されます。",
   "PROJECT_PENDING_DELETE": "プロジェクト削除処理中",
   "PROJECT_DELETED_TITLE": "プロジェクト削除処理中",
   "PROJECT_DELETED_BODY": "削除に数分かかります。",
   "PROJECT_PENDING_DELETE_TITLE": "プロジェクト削除処理中",
   "PROJECT_PENDING_DELETE_BODY": "これ以降プロジェクトにアクセスできません。",
-  "PROJECT_NOT_FOUND_TITLE": "プロジェクトがありません。",
+  "PROJECT_NOT_FOUND_TITLE": "結果",
   "PROJECT_NOT_FOUND_BODY": "プロジェクトがありません。",
 
   "ACTIVATE" : "有効",
@@ -433,9 +433,9 @@
   "INFORMATION": "情報",
   "CONDITION": "条件",
   "CHOOSE_ONE_CONDITION": "条件を選んでください。",
-  "METRIC_THROUGHPUT_CONDITION": "メトリックスループット条件",
-  "METRIC_QUOTA_CONDITION": "メトリッククォータ条件",
-  
+  "METRIC_THROUGHPUT_CONDITION": "スループット条件設定",
+  "METRIC_QUOTA_CONDITION": "クォータ条件設定",
+
   "REMOVING_RULES" : "ルール削除",
   "REMOVE_RULES_CONFIRMATION" : "ルールを削除しますか？",
 
@@ -477,7 +477,7 @@
   "WITHIN_LAST": "直近",
   "IS": "＝",
   "CONDITIONS": "条件",
-  "DELETE_SECURITY_POLICIES_CONFIRMATION": "<span class=\"text-danger\">以下のセキュリティ・ポリシーを本当に削除しますか？</span> ({{selectedSecurityPoliciesLength}}):",
+  "DELETE_SECURITY_POLICIES_CONFIRMATION": "選択されたセキュリティ・ポリシー({{selectedSecurityPoliciesLength}}個)を<span class=\"text-danger\">削除しますか？</span>",
 
   "HIDE" : "閉じる",
   "SHOW" : "開く",
@@ -613,7 +613,7 @@
   "FIRST": "最初",
   "LOADING_ALERTS": "ロード中",
   "UNABLE_TO_FOUND_ALERTS": "アラートはありません。",
-  
+
   "ACTIVATE_ALL_FEATURES_MODE_TITLE": "全機能を有効化",
   "ACTIVATE_ALL_FEATURES_MODE_BODY": "rを押したまま、fを３回押して無効化。",
   "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "追加機能を無効化",
