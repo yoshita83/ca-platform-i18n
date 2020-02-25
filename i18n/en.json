@@ -209,12 +209,14 @@
   "CHANNEL_ID_RESTRICTIONS": "Channel Id should contain only letters, digits, `-`, '_' and shouldn't start with '-'",
   "CHANNEL_ID_ALREADY_USED": "The id is already used by another channel",
   "CHANNEL_NAME_RESTRICTIONS": "The channel name must start and end with alphanumeric characters and cannot contain any special characters",
-  "DEVICE_ID_ALREADY_USED": "The id is already used by another device",
+  "DEVICE_ID_ALREADY_USED": "Change device ID. The id is already used by another device",
+  "DEVICE_ID_WAS_USED": "Change device ID. The id was used by removed device",
   "DEVICE_NAME_RESTRICTIONS": "The device name must start and end with alphanumeric characters and cannot contain any special characters",
   "DEVICE_NAME_ALREADY_USED": "The name is already used by another device",
   "TAG_NAME_RESTRICTIONS": "Tag name should consist of: letters, digits, `-` and `_`, but it should start and end only with the letter or digit.",
   "CREATE_CHANNEL": "Create channel",
   "UPDATE_CHANNEL": "Update channel",
+  "DELETE_CHANNELS_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following channels</span> ({{selectedChannelsLength}}):",
 
   "SINCE": "Since",
   "UNTIL": "Until",
@@ -269,6 +271,7 @@
   "BLOCK_USER": "Click icon to block user",
   "ADD_NEW_PROJECT": "Add new project",
   "PROJECTS_LIST_IS_EMPTY": "Project list is empty. New project can be created by tenant administrator",
+  "NO_RESULT_FOUND": "No result found",
   "FOUND_PROJECTS": "Found <span class=\"projects-count\">{{availableProjectCount}}</span> projects",
   "PROFILE_SETTINGS": "Profile settings",
   "ACCOUNT_MANAGEMENT": "Account management",
@@ -337,6 +340,17 @@
   "TYPE_HERE_PROJECT_ID": "Type here project id",
   "TYPE_HERE_PROJECT_NAME": "Type here project name",
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "Type here {\"attirbute name\": \"attribute value\"}",
+  "DELETE_PROJECT_QUESTIONMARK": "Delete project?",
+  "DELETE_PROJECT": "Delete project",
+  "DELETE_PROJECT_CONFIRMATION": "Do you really want to <span class=\"text-danger\">delete project?</span> All resources from the project, connections and data of devices will be removed.",
+  "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "All resources from the project, connections and data of devices will be removed.",
+  "PROJECT_PENDING_DELETE": "Project pending delete",
+  "PROJECT_DELETED_TITLE": "Project pending delete",
+  "PROJECT_DELETED_BODY": "Deletion can take few minutes",
+  "PROJECT_PENDING_DELETE_TITLE": "Project pending delete",
+  "PROJECT_PENDING_DELETE_BODY": "Project can not be accessed any more.",
+  "PROJECT_NOT_FOUND_TITLE": "Not found",
+  "PROJECT_NOT_FOUND_BODY": "Project was not found",
 
   "ACTIVATE": "Activate",
   "DEACTIVATE": "Deactivate",
@@ -412,7 +426,16 @@
   "HEADER_VALUE": "Value",
   "HTTP_METHOD": "HTTP Method",
   "ADD_HEADER": "Add header",
-
+  "WEB_ACTION": "Web action",
+  "TRIGGER_RULE": "Trigger rule",
+  "ALL_CONDITIONS_ARE_FULFILLED": "all conditions are fulfilled",
+  "ONE_IS_FULFILLED": "one is fulfilled",
+  "INFORMATION": "Information",
+  "CONDITION": "Condition",
+  "CHOOSE_ONE_CONDITION": "Choose one condition",
+  "METRIC_THROUGHPUT_CONDITION": "Metric throughput condition",
+  "METRIC_QUOTA_CONDITION": "Metric quota condition",
+  
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
 
@@ -454,6 +477,7 @@
   "WITHIN_LAST": "within last",
   "IS": "is",
   "CONDITIONS": "Conditions",
+  "DELETE_SECURITY_POLICIES_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following security policies</span> ({{selectedSecurityPoliciesLength}}):",
 
   "HIDE": "Hide",
   "SHOW": "Show",
@@ -588,6 +612,10 @@
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loadning alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
-
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
+  
+  "ACTIVATE_ALL_FEATURES_MODE_TITLE": "All features activated",
+  "ACTIVATE_ALL_FEATURES_MODE_BODY": "To deactivate hold r and three times press f",
+  "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "Additional features deactivated",
+  "DEACTIVATE_ALL_FEATURES_MODE_BODY": "To activate hold r and three times press f"
 }
