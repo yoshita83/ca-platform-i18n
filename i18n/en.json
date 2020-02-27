@@ -110,6 +110,7 @@
   "LAST_OWNER_IN_PROJECT": "You are the last OWNER in the project.",
   "CANT_REMOVE_LAST_OWNER": "You cannot remove the last owner of the project",
   "USER_DELETE_FROM_PROJECT_CONFIRMATION": "Do you really want to delete {{userName}} from this project?",
+  
 
   "SCHEDULED_AT": "Scheduled at",
   "TIME_INTERVAL_BETWEEN": "Time interval between",
@@ -475,6 +476,7 @@
   "SEND_MESSAGED_TO": "Send <strong>messages</strong> to: ",
   "EMAIL_COUNT_RECIPIENTS": "e-mail: <span class=\"text-primary\">{{recipientsLength}} recipients</span>",
   "SEND_ACTION_TO_URL": "Send {{restActionMethod}} to URL: <strong>{{restActionUrl}}</strong>",
+  "WHEN": "When",
   
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
