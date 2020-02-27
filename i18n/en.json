@@ -432,7 +432,7 @@
   "ADD_ACTION": "Add action",
   "NOT_SUPPORTED_TYPE": "TYPE {{type}} OF THIS PROPERTY IS NOT SUPPORTED",
   "SEND_EMAIL": "Send email",
-  "EMAILS": "Email",
+  "EMAILS": "Emails",
   "ADD_NEW_EMAIL": "Add new email",
   "BODY": "Body",
   "HEADER_RESTRICTIONS": "Header name should contain only letters, digits, `-` and '_'",
@@ -465,6 +465,9 @@
   "PROPERTY_VALUE": "Property value",
   "OF_DEVICE_ID": "of device id",
   "THAN": "than",
+  "NOTIFICATION": "Notification",
+  "MQTT_ACTION": "MQTT action",
+  "WEB_UPPERCASE_ACTION": "WEB action",
   
   "REMOVING_RULES": "Removing rules",
   "REMOVE_RULES_CONFIRMATION": "Are you sure want to remove the following rules?",
