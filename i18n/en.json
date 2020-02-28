@@ -654,11 +654,7 @@
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
   "FIRST": "First",
-  "LOADING_ALERTS": "Loadning alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
+  "LOADING_ALERTS": "Loading alerts",
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
   
-  "ACTIVATE_ALL_FEATURES_MODE_TITLE": "All features activated",
-  "ACTIVATE_ALL_FEATURES_MODE_BODY": "To deactivate hold r and three times press f",
-  "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "Additional features deactivated",
-  "DEACTIVATE_ALL_FEATURES_MODE_BODY": "To activate hold r and three times press f"
 }
