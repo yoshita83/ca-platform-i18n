@@ -613,9 +613,4 @@
   "FIRST": "最初",
   "LOADING_ALERTS": "ロード中",
   "UNABLE_TO_FOUND_ALERTS": "アラートはありません。",
-
-  "ACTIVATE_ALL_FEATURES_MODE_TITLE": "全機能を有効化",
-  "ACTIVATE_ALL_FEATURES_MODE_BODY": "rを押したまま、fを３回押して無効化。",
-  "DEACTIVATE_ALL_FEATURES_MODE_TITLE": "追加機能を無効化",
-  "DEACTIVATE_ALL_FEATURES_MODE_BODY": "rを押したまま、fを３回押して有効化。"
 }
