@@ -295,6 +295,9 @@
   "ACCESS_DENIED_BODY": "You don't have permission to perform this operation",
   "SERVER_ERROR_TITLE": "Server error",
   "SERVER_ERROR_BODY": "The server encountered unexpected difficulties that prevented the request from completing",
+  "YOU_HAVE_BEEN_BLOCKED": "You have been blocked!",
+  "REASON": "Reason: {{blockReason}}",
+
   "DEVICE_TYPE": "Device type",
   "ATTRIBUTES": "Attributes",
   "TAGS": "Tags",
