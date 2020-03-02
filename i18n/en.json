@@ -272,6 +272,7 @@
   "NO_REPOSITORIES_FOUND": "No repositories found.",
   "SELECTED_DEVICES": "Selected devices",
   "DEVICES_LIST": "Devices list",
+  "DEVICE_DETAILS": "Device details ({{deviceDTO}})",
 
   "APPROVE": "Approve",
   "BACK": "Back",
