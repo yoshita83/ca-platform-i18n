@@ -367,7 +367,7 @@
   "INACTIVE": "Inactivo",
   "RULES": "Reglas",
   "ADD_NEW_RULE": "Agregar nueva regla",
-  "REMOVE_SELECTED_RULES": Eliminar la(s) regla(s) seleccionada(s)",
+  "REMOVE_SELECTED_RULES": "Eliminar la(s) regla(s) seleccionada(s)",
   "EDIT_RULE": "Editar regla",
   "LEAVE_UPDATING_RULE": "Salir de "actualizar regla"",
   "LEAVE_CREATING_RULE": "Salir de "crear regla"",
