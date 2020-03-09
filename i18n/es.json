@@ -67,6 +67,7 @@
   "LWM2M": "LWM2M",
   "CHOOSE_PROPERTIES": "Elegir propiedades",
   "SELECTED_PROPERTIES": "Propiedades seleccionadas",
+  
   "ALERTS": "Alertas",
   "ACTIVE_ALERTS": "Alertas activas",
   "DEACTIVATE_ALERTS": "Desactivar alerta(s)",
@@ -85,6 +86,7 @@
   "DEVICE": "Dispositivo",
   "METRICS": "Métricas",
   "NO_ALERTS_HERE": "No hay alertas aquí",
+  
   "MEMBERS": "Miembros",
   "ADD_NEW_MEMBERS": "Añadir nuevos miembros",
   "LEAVE_PROJECT": "Dejar",
@@ -108,6 +110,8 @@
   "LAST_OWNER_IN_PROJECT": "Usted es el último DUEÑO en el proyecto.",
   "CANT_REMOVE_LAST_OWNER": "Usted no puede eliminar al último dueño del proyecto.",
   "USER_DELETE_FROM_PROJECT_CONFIRMATION": "Realmente desea eliminar {{userName}} del proyecto?",
+  
+  
   "SCHEDULED_AT": "Programado para",
   "TIME_INTERVAL_BETWEEN": "Intérvalo de tiempo entre",
   "STATE": "Estado",
@@ -115,6 +119,7 @@
   "SCHEDULES": "Horarios",
   "SCHEDULES_CANCELED_TITLE": "Horarios cancelados",
   "SCHEDULES_CANCELED_BODY": "El horario seleccionado ha sido cancelado",
+  
   "ASSIGN": "Asignar",
   "ADD_DEVICES_FROM_REPOSITORY": "Añadir dispositivos del repositorio",
   "ADD_DEVICES": "Añadir dispositivos",
@@ -211,6 +216,7 @@
   "TAG_NAME_RESTRICTIONS": "El nombre de la etiqueta debe consistir de: letras, dígitos, `-` y `_`, pero debe comenzar y finalizar sólo con letras o dígitos.",
   "CREATE_CHANNEL": "Crear canal",
   "UPDATE_CHANNEL": "Actualizar canal",
+  
   "SINCE": "Desde",
   "UNTIL": "Hasta",
   "FILTERING_RESTRICTIONS": "Usted no puede filtrar después de la fecha si no se especifica el ID de propiedad",
@@ -223,6 +229,7 @@
   "IF_YOU_WANT_FILTER": "Si desea filtrar los dispositivos por etiqueta o por tipo, escriba: <br><b>{{devicetype}}:yourtype</b> OR <b>{{tags}}:yourtag1,yourtag2</b>",
   "DEVICE_TYPE_TAGS_PLACEHOLDER": "{{devicetype}}:yourtype OR {{tags}}:yourtag1,yourtag2",
   "SELECT_DEVICE_SOURCE": "Seleccione la fuente del dispositivo",
+  
   "EDIT_PARTICULAR_DEVICE": "Edite el dispositivo {{deviceName}}",
   "CHANNELS_LIST_IS_EMPTY": "La lista de canales está vacía.",
   "EDIT_DEVICE": "Edite el dispositivo",
@@ -251,6 +258,7 @@
   "NO_REPOSITORIES_FOUND": "Ningún repositorio encontrado.",
   "SELECTED_DEVICES": "Dispositivos seleccionados",
   "DEVICES_LIST": "Lista de dispositivos",
+  
   "APPROVE": "Aprobar",
   "BACK": "Atrás",
   "UPDATE": "Actualizar",
@@ -320,6 +328,7 @@
   "SEARCH_OR_CREATE": "Buscar o crear",
   "SELECT_ALL": "Seleccione todo",
   "CLEAR_SELECTED_ITEMS": "Limpiar los ítems seleccionados",
+  
   "GEOLOCATION": "Geolocalización",
   "PROJECT_NAME_RESTRICTIONS": "El nombre del proyecto debe contener sólo letras, dígitos, `_`, `-` y debe comenzar y terminar con una letra o dígito",
   "PROJECT_ID_RESTRICTIONS": "El ID del proyecto debe contener sólo letras, dígitos, `-`, '_' y no debe comenzar con '-'",
@@ -329,6 +338,7 @@
   "TYPE_HERE_PROJECT_ID": "Escriba aquí el ID del proyecto",
   "TYPE_HERE_PROJECT_NAME": "Escriba aquí el nombre del proyecto",
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "Escriba aquí {\"nombre del atributo\": \"valor del atributo\"}",
+  
   "ACTIVATE": "Activar",
   "DEACTIVATE": "Desactivar",
   "SAVE_RULE": "Guardar regla",
@@ -403,8 +413,10 @@
   "HEADER_VALUE": "Valor",
   "HTTP_METHOD": "Método HTTP",
   "ADD_HEADER": "Añadir cabecera",
+  
   "REMOVING_RULES": "Eliminando reglas",
   "REMOVE_RULES_CONFIRMATION": "Está seguro que desea eliminar las siguientes reglas?",
+  
   "SECURITY_POLICIES": "Políticas de seguridad",
   "ADD_NEW_SECURITY_POLICY": "Añadir nueva política de seguridad",
   "SECURITY_POLICY_DETAILS": "Detalles de la política de seguridad ({{securityPolicyName}})",
@@ -443,9 +455,12 @@
   "WITHIN_LAST": "en el último",
   "IS": "es",
   "CONDITIONS": "Condiciones",
+  
   "HIDE": "Ocultar",
   "SHOW": "Mostrar",
+  
   "CONFIRM_REMOVE_IMAGES": "Está seguro que quiere eliminar las siguientes imágenes?",
+  
   "TOKEN": "Token",
   "CREATED": "Creado",
   "REMOVE_TOKEN": "Eliminar",
@@ -463,13 +478,16 @@
   "ACCESS_TOKEN_CREATED_TITLE": "Token de acceso creado",
   "ACCESS_TOKEN_CREATED_BODY": "Token de acceso con ID {{id}} creado exitosamente",
   "DATE_CANNOT_BE_BACKDATED": "Campo de vencimiento con error, no se puede antedatar",
+  
   "ADD_NEW": "Añadir nuevo",
   "CHOOSE_TAGS": "Elija etiquetas",
   "SELECTED_TAG": "Seleccione etiquetas",
   "NEW": "Nuevo",
+  
   "REQUIRED_FIELDS": "Campos obligatorios",
   "APPLY": "Aplicar",
   "PROPERTIES_LIST_IS_EMPTY": "La lista de propiedades está vacía",
+  
   "BULK_EDIT": "Edición en grupo",
   "BULK_ACTIONS": "Acciones en grupo",
   "ACTION": "Acción",
@@ -485,17 +503,21 @@
   "BULK_EDIT_SUCCESS_DETAILS": "{{devicesCount}} dispositivos han sido modificados",
   "USER_SEARCH_PLACEHOLDER": "Buscar un usuario",
   "NOT_FOUND_USERS": "Usuario no encontrado",
+  
   "TWIN": "Gemelo",
   "REPORTED_TWIN": "Gemelo reportado",
   "DESIRED_TWIN": "Gemelo deseado",
+  
   "LWM2M_ENDPOINT": "LWM2M endpoint",
   "DEVICE_ENDPOINT": "Endpoint de dispositivo",
   "COPIED": "Copiado!",
   "COPY_TO_CLIPBOARD": "Copiado al portapapeles",
+  
   "ARE_YOU_SURE_LEAVE_PROJECT": "Está seguro que desea dejar este proyecto?",
   "LEAVE": "Dejar",
   "NAME_PROJECT_EXIST": "Este nombre ya existe en la plataforma IoT",
   "ID_PROCJECT_EXIST": "Este ID de proyecto ya existe en la plataforma IoT",
+  
   "CHART_ALERT_NO_DATA": "Su dispositivo no envía ninguna data",
   "GRAPH": "Gráfico",
   "LAST_5_MINUTES": "Últimos 5 minutos",
@@ -506,6 +528,7 @@
   "LAST_2_HOURS": "Últimas 2 horas",
   "LAST_4_HOURS": "Últimas 4 horas",
   "LAST_8_HOURS": "Últimas 8 horas",
+  
   "IMAGE_NAME_ALREADY_USED": "El nombre ya está en uso por otra imagen",
   "IMAGE_NAME_RESTRICTIONS": "El nombre de la imagen debe comenzar y termina con carácter alfanumérico y no puede contener ningún carácter especial",
   "IMAGE_NAME": "Nombre de la imagen",
@@ -553,6 +576,7 @@
   "FIRMWARE_IMAGE_INFO": "Información de la imagen del firmware",
   "RETRY": "Reintentar",
   "INSTALL": "Instalar",
+  
   "FROM": "De",
   "TO": "Para",
   "DEVICE_HISTORY": "Historial del dispositivo",
