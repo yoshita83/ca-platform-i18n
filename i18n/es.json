@@ -270,6 +270,7 @@
   "BLOCK_USER": "Haga click en el ícono para bloquear usuario",
   "ADD_NEW_PROJECT": "Añada un nuevo proyecto",
   "PROJECTS_LIST_IS_EMPTY": "La lista de proyectos está vacía. Nuevos proyectos pueden ser creados por el administrador",
+  "NO_RESULT_FOUND": "No se encontraron resultados",
   "FOUND_PROJECTS": "Proyectos <span class=\"projects-count\">{{availableProjectCount}}</span> encontrados",
   "PROFILE_SETTINGS": "Configuración de perfil",
   "ACCOUNT_MANAGEMENT": "Gestión de cuenta",
