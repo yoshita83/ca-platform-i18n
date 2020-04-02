@@ -552,6 +552,7 @@
   "CHOOSE_TAGS": "Choose tags",
   "SELECTED_TAG": "Selected tags",
   "NEW": "New",
+  "SEARCH_OR_ADD_NEW": "Search or add new",
 
   "REQUIRED_FIELDS": "Required fields",
   "APPLY": "Apply",
@@ -579,6 +580,7 @@
   "EDIT_TWIN": "Edit twin",
 
   "LWM2M_ENDPOINT": "LWM2M endpoint",
+  "LWM2M_ENDPOINT_TOOLTIP": "You need to assign endpoint if you want to add LWM2M channel to device.",
   "DEVICE_ENDPOINT": "Device endpoint",
   "COPIED": "Copied!",
   "COPY_TO_CLIPBOARD": "Copied to clipboard",
