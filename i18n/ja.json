@@ -552,6 +552,7 @@
   "CHOOSE_TAGS": "選択可能",
   "SELECTED_TAG": "選択済",
   "NEW": "追加",
+  "SEARCH_OR_ADD_NEW": "検索、または追加",
 
   "REQUIRED_FIELDS": "必須フィールド",
   "APPLY": "適用",
@@ -579,6 +580,7 @@
   "EDIT_TWIN": "Twin編集",
 
   "LWM2M_ENDPOINT": "LWM2Mエンドポイント",
+  "LWM2M_ENDPOINT_TOOLTIP": "LWM2Mチャネルを使用するには、エンドポイントを指定してください。",
   "DEVICE_ENDPOINT": "Deviceエンドポイント",
   "COPIED": "コピー",
   "COPY_TO_CLIPBOARD": "クリップボードにコピーしました。",
