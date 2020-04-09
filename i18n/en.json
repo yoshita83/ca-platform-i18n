@@ -211,7 +211,7 @@
   "CHANNEL_ID_ALREADY_USED": "The id is already used by another channel",
   "CHANNEL_NAME_RESTRICTIONS": "The channel name must start and end with alphanumeric characters and cannot contain any special characters",
   "DEVICE_ID_ALREADY_USED": "Change device ID. The id is already used by another device",
-  "DEVICE_ID_WAS_USED": "Change device ID. The id was used by removed device",
+  "DEVICE_ID_WAS_USED": "Change device ID. The id was used by removed device. Click undo arrow to restore device.",
   "DEVICE_NAME_RESTRICTIONS": "The device name must start and end with alphanumeric characters and cannot contain any special characters",
   "DEVICE_NAME_ALREADY_USED": "The name is already used by another device",
   "TAG_NAME_RESTRICTIONS": "Tag name should consist of: letters, digits, `-` and `_`, but it should start and end only with the letter or digit.",
@@ -230,7 +230,11 @@
   "CANNOT_ASSIGN_CHANNEL_TO_DEVICE": "Cannot assign channel '{{channelName}}' to device: '{{deviceName}}': {{message}}",
   "SUCCESSFULLY_ADDED_DEVICE": "Successfully added device '{{deviceName}}'",
   "CANNOT_ADD_DEVICE": "Cannot add device '{{deviceName}}': {{message}}",
-
+  "RESTORE_DEVICE_CONFIRMATION": "Do you really want to restore device {{deviceId}}?",
+  "SUCCESSFULLY_RESTORED_DEVICE": "Successfully restored device '{{deviceId}}'",
+  "CANNOT_RESTORE_DEVICE": "Cannot restore device '{{deviceId}}': {{message}}",
+  "RESTORE": "Restore",
+  
   "SINCE": "Since",
   "UNTIL": "Until",
   "FILTERING_RESTRICTIONS": "You can not filter after date if property ID is not specified",
