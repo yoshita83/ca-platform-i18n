@@ -67,6 +67,7 @@
   "LWM2M": "LWM2M",
   "CHOOSE_PROPERTIES": "Choose properties",
   "SELECTED_PROPERTIES": "Selected properties",
+  "DEVICES_DO_NOT_HAVE_PROPERTIES": "Selected devices do not have any properties",
 
   "ALERTS": "Alerts",
   "ACTIVE_ALERTS": "Active Alerts",
