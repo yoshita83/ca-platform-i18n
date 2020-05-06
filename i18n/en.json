@@ -191,6 +191,8 @@
   "NOT_ALL_CHANNELS_REMOVED_BODY": "Out of {{channelsLength}} selected {{errorsLength}} weren't removed",
   "CHANNEL_ALREADY_EXISTS_TITLE": "Channel already exists",
   "CHANNEL_ALREADY_EXISTS_BODY": "Channel {{channelId}} already exists",
+  "DEVICE_ENDPOINT_TAKEN_TITLE": "Device endpoint taken",
+  "DEVICE_ENDPOINT_TAKEN_BODY": "In order to create a channel you need to change device endpoint",
   "BASIC_INFORMATION": "Basic information",
   "MQTT_CONNECTIVITY": "MQTT connectivity",
   "USERNAME": "Username",
