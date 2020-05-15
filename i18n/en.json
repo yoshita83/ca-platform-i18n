@@ -247,8 +247,8 @@
   "HISTORY_OF": "History of",
   "ARE_YOU_SURE_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following devices</span> ({{selectedDevicesLength}}):",
   "PLEASE_NOTE_REMARK": "Please note that these Devices will be archived and their IDs won't be usable for new Devices",
-  "IF_YOU_WANT_FILTER": "If you want to filter devices by tags or device type write: <br><b>{{devicetype}}:yourtype</b> OR <b>{{tags}}:yourtag1,yourtag2</b>",
-  "DEVICE_TYPE_TAGS_PLACEHOLDER": "{{devicetype}}:yourtype OR {{tags}}:yourtag1,yourtag2",
+  "IF_YOU_WANT_FILTER": "If you want to filter devices by device id, name, type or tags write: <br><b>property:value</b>",
+  "DEVICE_TYPE_TAGS_PLACEHOLDER": "Search device id, name, type or tags",
   "SELECT_DEVICE_SOURCE": "Select device source",
 
   "EDIT_PARTICULAR_DEVICE": "Edit device {{deviceName}}",
