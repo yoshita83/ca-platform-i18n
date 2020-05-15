@@ -341,7 +341,7 @@
   "DETAILS_MESSAGE": "Details: {{message}}",
   "DEVICE_ID_RESTRICTIONS": "Device Id should contain only letters, digits, `-`, '_' and shouldn't start with '-'",
   "QUERY_IS_NOT_VALID": "The query is not valid",
-  "PROPERTIES_DO_NOT_EXISTS": "Specified properties do not exists. You can type \"devicetype\" or \"tags\"",
+  "PROPERTIES_DO_NOT_EXISTS": "Specified properties do not exists. You can type \"id\", \"name\", \"type\" or \"tags\"",
   "DEVICE_ID": "Device ID",
   "PROPERTY_ID": "Property Id",
   "EVENT_TIME": "Event time",
