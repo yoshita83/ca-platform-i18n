@@ -90,6 +90,7 @@
 
   "MEMBERS": "Members",
   "ADD_NEW_MEMBERS": "Add new members",
+  "USER_DOESNT_EXIST": "This user doesn't exist.",
   "LEAVE_PROJECT": "Leave",
   "USER_ADDED_TITLE": "User has been added to the project",
   "USER_ADDED_BODY": "User '{{user}}' has been added to the project '{{projectName}}' as '{{role}}'",
