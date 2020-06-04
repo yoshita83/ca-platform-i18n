@@ -90,6 +90,7 @@
 
   "MEMBERS" : "メンバー",
   "ADD_NEW_MEMBERS" : "メンバー追加",
+  "USER_DOESNT_EXIST": "指定されたユーザは存在しません。",
   "LEAVE_PROJECT": "解除",
   "USER_ADDED_TITLE" : "追加完了",
   "USER_ADDED_BODY" : "{{user}}を{{role}}として{{projectName}}に追加しました。",
