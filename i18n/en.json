@@ -376,6 +376,8 @@
   "PROJECT_PENDING_DELETE_BODY": "Project can not be accessed any more.",
   "PROJECT_NOT_FOUND_TITLE": "Not found",
   "PROJECT_NOT_FOUND_BODY": "Project was not found",
+  "PROJECT_UPDATED_TITLE" : "Project updated",
+  "PROJECT_UPDATED_BODY" : "Project has been updated successfully",
 
   "ACTIVATE": "Activate",
   "DEACTIVATE": "Deactivate",
@@ -552,9 +554,12 @@
   "APIKEYS_LIST_IS_EMPTY": "You haven't created any access token yet.",
   "CREATE_NEXT": "Create next token",
   "GENERAL": "General",
-  "ACCESS_TOKEN_CREATED_TITLE": "Access token created",
+  "ACCESS_TOKEN_CREATED_TITLE": "Successfully created",
   "ACCESS_TOKEN_CREATED_BODY": "Access token with id {{id}} created successfully",
   "DATE_CANNOT_BE_BACKDATED": "Bad expiration field, it cannot be backdated",
+  "ACCESS_TOKEN_REMOVED_TITLE" : "Successfully removed",
+  "ACCESS_TOKEN_REMOVED_BODY" : "Access token has been removed successfully",
+  "ACCESS_TOKEN_REMOVE_CONFIRMATION": "Do you really want to remove access token {{apikey}}?",
 
   "ADD_NEW": "Add new",
   "CHOOSE_TAGS": "Choose tags",
