@@ -376,6 +376,8 @@
   "PROJECT_PENDING_DELETE_BODY": "プロジェクトへは今後アクセスできません。",
   "PROJECT_NOT_FOUND_TITLE": "チェック結果",
   "PROJECT_NOT_FOUND_BODY": "プロジェクトはありません。",
+  "PROJECT_UPDATED_TITLE": "更新完了",
+  "PROJECT_UPDATED_BODY": "プロジェクトを更新しました。",
 
   "ACTIVATE" : "有効",
   "DEACTIVATE" : "無効",
@@ -555,6 +557,9 @@
   "ACCESS_TOKEN_CREATED_TITLE": "作成完了",
   "ACCESS_TOKEN_CREATED_BODY": "トークン（{{id}}...)を作成しました。",
   "DATE_CANNOT_BE_BACKDATED": "有効期限に過去の日付を指定することはできません。",
+  "ACCESS_TOKEN_REMOVED_TITLE": "削除完了",
+  "ACCESS_TOKEN_REMOVED_BODY": "トークンを削除しました。",
+  "ACCESS_TOKEN_REMOVE_CONFIRMATION": "トークン（{{apikey}}）を削除しますか?",
 
   "ADD_NEW": "新規追加",
   "CHOOSE_TAGS": "選択可能",
