@@ -350,6 +350,7 @@
   "BUILD" : "ビルド",
   "VERSION" : "バージョン",
   "MEMBER" : "メンバー",
+  "OWNER": "オーナー",
   "EVERY" : "毎",
   "SEARCH" : "検索中",
   "SEARCH_OR_CREATE": "検索、または作成",
