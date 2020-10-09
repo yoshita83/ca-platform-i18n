@@ -350,6 +350,7 @@
   "BUILD": "build",
   "VERSION": "version",
   "MEMBER": "member",
+  "OWNER": "owner",
   "EVERY": "Every",
   "SEARCH": "Search...",
   "SEARCH_OR_CREATE": "Search or create",
