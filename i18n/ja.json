@@ -468,7 +468,7 @@
   "TRIGGER_RULE": "トリガー",
   "ALL_CONDITIONS_ARE_FULFILLED": "すべての条件に該当",
   "ONE_IS_FULFILLED": "いずれかの条件に該当",
-  "INFORMATION": "Information",
+  "INFORMATION": "全般",
   "CONDITION": "条件",
   "CHOOSE_ONE_CONDITION": "条件を指定してください。",
   "METRIC_THROUGHPUT_CONDITION": "スループット条件",
