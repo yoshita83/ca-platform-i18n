@@ -238,6 +238,9 @@
   "SUCCESSFULLY_RESTORED_DEVICE": "{{deviceId}}を復元しました。",
   "CANNOT_RESTORE_DEVICE": "{{deviceId}}を復元できませんでした: {{message}}",
   "RESTORE": "復元",
+  "IF_YOU_WANT_FILTER_CHANNELS": "ID、名前、タイプで検索する場合は<br><b>property:value</b><br>のように入力してください。",
+  "CHANNELS_FILTER_PLACEHOLDER": "ID、名前、タイプで検索",
+  "CHANNELS_PROPERTIES_DO_NOT_EXISTS": "指定された属性はありません。\"id\",\"name\",または\"type\"を指定してください。",
 
   "SINCE" : "開始",
   "UNTIL" : "終了",
@@ -369,7 +372,7 @@
   "DELETE_PROJECT_QUESTIONMARK": "プロジェクトを削除しますか？",
   "DELETE_PROJECT": "プロジェクト削除",
   "DELETE_PROJECT_CONFIRMATION": "<span class=\"text-danger\">プロジェクトを削除しますか？</span> 関連する全ての情報が削除されます。",
-  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>プロジェクト内のすべてのデータを削除します。</b> <br>確認のためプロジェクト名を入力してください。",
+  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>プロジェクト内のすべてのデータを削除します。</b> <br>確認のため<b>{{projectId}}</b>を入力してください。",
   "CONFIRM": "確認",
   "DELETING_PROJECT": "プロジェクトを削除しています。",
   "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "関連する全ての情報が削除されます。",
