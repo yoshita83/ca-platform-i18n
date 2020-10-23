@@ -68,6 +68,7 @@
   "CHOOSE_PROPERTIES" : "選択可",
   "SELECTED_PROPERTIES" : "選択済",
   "DEVICES_DO_NOT_HAVE_PROPERTIES": "プロパティはありません。",
+  "NO_DEVICE_PROPERTY": "プロパティなし",
 
   "ALERTS" : "アラート",
   "ACTIVE_ALERTS" : "アクティブ・アラート",
@@ -308,6 +309,8 @@
   "SERVER_ERROR_BODY" : "予期せぬエラーが発生しました。",
   "YOU_HAVE_BEEN_BLOCKED": "ブロック中",
   "REASON": "理由: {{blockReason}}",
+  "PROJECT_NAME_TAKEN": "指定された名前はすでに別のプロジェクトで使用されています。",
+  "PROJECT_ID_TAKEN": "指定されたIDはすでに別のプロジェクトで使用されています。",
 
   "DEVICE_TYPE" : "デバイス・タイプ",
   "ATTRIBUTES" : "アトリビュート",
@@ -372,7 +375,7 @@
   "DELETE_PROJECT_QUESTIONMARK": "プロジェクトを削除しますか？",
   "DELETE_PROJECT": "プロジェクト削除",
   "DELETE_PROJECT_CONFIRMATION": "<span class=\"text-danger\">プロジェクトを削除しますか？</span> 関連する全ての情報が削除されます。",
-  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>プロジェクト内のすべてのデータを削除します。</b> <br>確認のため<b>{{projectId}}</b>を入力してください。",
+  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>プロジェクト内のすべてのデータを削除します。</b> <br>確認のため<div class=\"chip\">{{projectId}}</div>を入力してください。",
   "CONFIRM": "確認",
   "DELETING_PROJECT": "プロジェクトを削除しています。",
   "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "関連する全ての情報が削除されます。",
