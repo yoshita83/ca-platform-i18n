@@ -68,6 +68,7 @@
   "CHOOSE_PROPERTIES": "Choose properties",
   "SELECTED_PROPERTIES": "Selected properties",
   "DEVICES_DO_NOT_HAVE_PROPERTIES": "Selected devices do not have any properties",
+  "NO_DEVICE_PROPERTY": "No device property",
 
   "ALERTS": "Alerts",
   "ACTIVE_ALERTS": "Active Alerts",
@@ -308,6 +309,8 @@
   "SERVER_ERROR_BODY": "The server encountered unexpected difficulties that prevented the request from completing",
   "YOU_HAVE_BEEN_BLOCKED": "You have been blocked!",
   "REASON": "Reason: {{blockReason}}",
+  "PROJECT_NAME_TAKEN": "The name is already used by another project",
+  "PROJECT_ID_TAKEN": "The id is already used by another project",
 
   "DEVICE_TYPE": "Device type",
   "ATTRIBUTES": "Attributes",
@@ -372,7 +375,7 @@
   "DELETE_PROJECT_QUESTIONMARK": "Delete project?",
   "DELETE_PROJECT": "Delete project",
   "DELETE_PROJECT_CONFIRMATION": "Do you really want to <span class=\"text-danger\">delete project?</span> All resources from the project, connections and data of devices will be removed.",
-  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>This action will remove all data from the project.</b> <br>Enter <b>{{projectId}}</b> to confirm.",
+  "DELETE_PROJECT_CONFIRMATION_MESSAGE": "<b>This action will remove all data from the project.</b> <br>Enter <div class=\"chip\">{{projectId}}</div> to confirm.",
   "CONFIRM": "Confirm",
   "DELETING_PROJECT": "Deleting project",
   "ALL_RESOURCES_WILL_BE_REMOVED_INFO": "All resources from the project, connections and data of devices will be removed.",
