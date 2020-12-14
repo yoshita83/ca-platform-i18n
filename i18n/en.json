@@ -175,8 +175,6 @@
   "UPDATE_DEVICE": "Update device",
   "DEVICES": "Devices",
   "ADD_NEW_DEVICES": "Add new device(s)",
-  "CANNOT_ADD_NEW_DEVICE": "Cannot add new device",
-  "THE_LIMIT_OF_AVAILABLE_DEVICES": "The limit of available devices has been exceeded. Please contact the administrator to add new devices.",
   "CHOOSE_TYPE": "Choose type",
   "DEVICE_TYPE_RESTRICTIONS": "Device type can be composed of alphanumeric characters and '_', may also contain the following special characters  ' ', '.', '- ' except in the first and the last position",
   "REMOVE": "Remove",
