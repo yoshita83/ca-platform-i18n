@@ -390,6 +390,7 @@
   "PROJECT_UPDATED_BODY": "Project has been updated successfully",
 
   "ACTIVATE": "Activate",
+  "ALL_CONFIGURED_DATA": "All configured data will be lost. Do you really want to leave the wizard?",
   "DEACTIVATE": "Deactivate",
   "SAVE_RULE": "Save rule",
   "RULE_SAVED_TITLE": "Rule saved",
@@ -426,6 +427,7 @@
   "EDIT_RULE": "Edit rule",
   "LEAVE_UPDATING_RULE": "Leave updating rule",
   "LEAVE_CREATING_RULE": "Leave creating rule",
+  "LEAVE_THE_WIZARD": "Leave the wizard",
   "CONFIRM_LEAVE_UPDATING": "Do you really want to leave updating rule?",
   "CONFIRM_LEAVE_CREATING": "Do you really want to leave creating rule?",
   "CHANGES_NOT_BE_SAVED": "Changes you made may not be saved",
@@ -612,6 +614,8 @@
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
+  "CANNOT_ADD": "Cannot add new project",
+  "THE_LIMIT_OF_AVAILABLE_PROJECTS": "The limit of available projects has been exceeded. Please contact the administrator to add new projects.",
 
   "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
   "GRAPH": "Graph",
