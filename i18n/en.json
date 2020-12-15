@@ -201,6 +201,8 @@
   "TOPIC": "Topic",
   "EDIT_CHANNEL": "Edit channel",
   "ADD_NEW_DEVICE_ID": "Add new device ID",
+  "CANNOT_ADD_NEW_DEVICE": "Cannot add new device",
+  "THE_LIMIT_OF_AVAILABLE_DEVICES": "The limit of available devices has been exceeded. Please contact the administrator to add new devices.",
   "CHANNEL_ID": "Channel Id",
   "CHANNEL_DESCRIPTION_HINT": "Descriptions help to identify channels on the list. ",
   "TYPE": "Type",
@@ -614,7 +616,7 @@
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
-  "CANNOT_ADD": "Cannot add new project",
+  "CANNOT_ADD_NEW_PROJECT": "Cannot add new project",
   "THE_LIMIT_OF_AVAILABLE_PROJECTS": "The limit of available projects has been exceeded. Please contact the administrator to add new projects.",
 
   "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
