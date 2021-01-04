@@ -201,6 +201,8 @@
   "TOPIC": "トピック",
   "EDIT_CHANNEL" : "チャネル編集",
   "ADD_NEW_DEVICE_ID" : "デバイスID追加",
+  "CANNOT_ADD_NEW_DEVICE": "デバイスを追加できません。",
+  "THE_LIMIT_OF_AVAILABLE_DEVICES": "デバイス数が上限に達しました。テナント管理者へご連絡ください。",
   "CHANNEL_ID" : "チャネルID",
   "CHANNEL_DESCRIPTION_HINT" : "チャネル概要を記載してください。",
   "TYPE" : "タイプ",
@@ -614,7 +616,7 @@
   "LEAVE": "OK",
   "NAME_PROJECT_EXIST": "同じ名前のプロジェクトがすでに存在します。",
   "ID_PROCJECT_EXIST": "同じIDのプロジェクトがすでに存在します。",
-  "CANNOT_ADD": "プロジェクトを追加できません。",
+  "CANNOT_ADD_NEW_PROJECT": "プロジェクトを追加できません。",
   "THE_LIMIT_OF_AVAILABLE_PROJECTS": "プロジェクト数が上限値に達しています。システム管理者へご連絡ください。",
 
   "CHART_ALERT_NO_DATA": "データはありません。",
