@@ -1,4 +1,5 @@
 {
+  "DASHBOARD": "Dashboard",
   "DASHBOARD_REFRESHED_TITLE": "Refreshed successfully",
   "DASHBOARD_REFRESHED_BODY": "Dashboard has been refreshed successfully",
   "DASHBOARD_NOT_REFRESHED_TITLE": "Refresh failed",
@@ -91,6 +92,8 @@
 
   "MEMBERS": "Members",
   "ADD_NEW_MEMBERS": "Add new members",
+  "ADD_NEW_MEMBER": "Add new member",
+  "EMAIL_EXAMPLE": "example@domain.com",
   "USER_DOESNT_EXIST": "This user doesn't exist.",
   "LEAVE_PROJECT": "Leave",
   "USER_ADDED_TITLE": "User has been added to the project",
