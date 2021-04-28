@@ -400,7 +400,7 @@
   "ACTIVATE": "Activate",
   "ALL_CONFIGURED_DATA": "All configured data will be lost. Do you really want to leave the wizard?",
   "DEACTIVATE": "Deactivate",
-  "NEW_RULES_INFO": "From the date of September 30th, 2021 this version of Rule Engine will become unavailable. The new Rule Engine is accessible by <a href='https://ca.iot-convel.krakow.comarch/api-docs#/Rules%20(New)'>Swagger</a>.The user manual can be found <a href='https://docs.comarch-iot.com/#_rule_engine'>here</a>.",
+  "NEW_RULES_INFO": "From the date of September 30th, 2021 this version of Rule Engine will become unavailable. The new Rule Engine is accessible by <a class=\"text-href\" href='https://ca.iot-convel.krakow.comarch/api-docs#/Rules%20(New)'>Swagger</a>. The user manual can be found <a class=\"text-href\" href='https://docs.comarch-iot.com/#_rule_engine'>here</a>.",
   "SAVE_RULE": "Save rule",
   "RULE_SAVED_TITLE": "Rule saved",
   "RULE_SAVED_BODY": "Rule has been saved successfully",
