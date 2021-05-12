@@ -400,6 +400,7 @@
   "ACTIVATE" : "有効",
   "ALL_CONFIGURED_DATA": "設定内容を破棄して終了しますか？",
   "DEACTIVATE" : "無効",
+  "NEW_RULES_INFO": "2021年10月以降、本機能はご利用いただけなくなります。新しいルール・エンジン機能は<a class=\"text-href\" href='./api-docs#/Rules%20(New)'>こちら</a>。",
   "SAVE_RULE" : "保存",
   "RULE_SAVED_TITLE": "保存完了",
   "RULE_SAVED_BODY": "ルールを保存しました。",
