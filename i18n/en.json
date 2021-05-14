@@ -109,7 +109,7 @@
   "USER_ROLE_CHANGED": "User role changed",
   "USER_ROLE_CHANGED_CONFIRMATION": "User {{userName}} role will be changed from {{previousRole}} to {{actualRole}}",
   "USER_ROLE_CHANGED_INFO": "Are you sure you want to change the role of the user {{userName}} from {{previousRole}} to {{actualRole}}?",
-  "NEW_ROLE_ASSIGNMENT": "{{userName}} now is {{userRole}}",
+  "NEW_ROLE_ASSIGNMENT": "{{userName}} is now {{userRole}}",
   "CANT_CHANGE_USER_ROLE": "Can't change user role!",
   "DELETE": "Delete",
   "USER_DELETED_TITLE": "User deleted successfully",
