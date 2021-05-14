@@ -106,7 +106,7 @@
   "TYPE_UPPERCASE": "TYPE",
   "YOU_UPPERCASE": "YOU",
   "CHANGE_OF_ROLE": "Change of role",
-  "USER_ROLE_CHANGED": "User role changed successfully",
+  "USER_ROLE_CHANGED": "User role changed",
   "USER_ROLE_CHANGED_CONFIRMATION": "User {{userName}} role will be changed from {{previousRole}} to {{actualRole}}",
   "USER_ROLE_CHANGED_INFO": "Are you sure you want to change the role of the user {{userName}} from {{previousRole}} to {{actualRole}}?",
   "NEW_ROLE_ASSIGNMENT": "{{userName}} now is {{userRole}}",
