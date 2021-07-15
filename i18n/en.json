@@ -708,5 +708,20 @@
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loading alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
+  
+  "TRANSFORMATIONS_LIST_IS_EMPTY." : "Transformations list is empty.",
+  "TRANSFORMATIONS_DETAILS": "Transformations details",
+  "TRANSFORMATION_DESCRIPTION": "Transformation description",
+  "INPUT": "Input",
+  "FUNCTION": "Function",
+  "OUTPUT": "Output",
+  "RULE_DESCRIPTION": "Rule description",
+  "ACTIONS_DETAILS": "Actions details",
+  "HEADERS": "Headers",
+  "EMAIL": "Email",
+  "URL": "URL",
+  "ACTIONS_LIST_IS_EMPTY": "Actions list is empty",
+  "INACTIVE": "Inactive",
+  "ACTIVE": "Active",
 }
